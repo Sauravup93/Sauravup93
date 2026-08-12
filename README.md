@@ -14,3 +14,55 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I'm Saurav
+
+Aspiring Software Developer
+
+🐍 Python
+🧠 Data Structures & Algorithms
+🌐 Web Development
+🚀 Currently Learning & Building
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Tech Stack
+
+Python | HTML | CSS | JavaScript | Git | GitHub
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Currently Learning
+
+• Data Structures & Algorithms
+• JavaScript
+• Web Development
+• Problem Solving
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Projects
+
+📚 Library Management System
+→ HTML + CSS + JavaScript
+
+🧠 DSA Practice
+→ Data Structures & Algorithms in Python
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+💻 LeetCode
+
+Solved problems automatically synced to GitHub
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Stats
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 2026 Goals
+
+• Strengthen DSA
+• Build real-world projects
+• Improve JavaScript
+• Contribute to open source

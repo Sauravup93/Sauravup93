@@ -52,7 +52,7 @@ Python | HTML | CSS | JavaScript | Git | GitHub
 
 💻 LeetCode
 
-Solved problems automatically synced to GitHub
+| DSA @ LeetCode & GFG |
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
